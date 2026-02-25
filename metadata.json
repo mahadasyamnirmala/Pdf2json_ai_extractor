@@ -1,0 +1,7 @@
+{
+  "name": "PDF2JSON AI Extractor",
+  "description": "A high-performance AI tool that converts documents, images, and handwritten notes into structured JSON data using Gemini's advanced multimodal vision capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
